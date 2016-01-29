@@ -2,7 +2,7 @@
 #
 # Version 1.5
 
-FROM ubuntu:14.04
+FROM armv7-debian:jessie
 MAINTAINER Kristian Haugene
 
 VOLUME /data

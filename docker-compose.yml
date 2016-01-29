@@ -1,5 +1,5 @@
 openvpn:
-  image: haugene/transmission-openvpn
+  image: mevatron/rpi-transmission-openvpn
   privileged: true
   ports:
     - "9091:9091"
